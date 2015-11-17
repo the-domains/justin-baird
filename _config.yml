@@ -1,0 +1,14 @@
+layout_spectrum: 0.2196563
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#F0E1C7'
+    - '#0C0C0D'
+    - '#CE9166'
+    - '#6E6E5C'
+    - '#6F77E0'
+  rhythmicContrast: 0.2337912
+typography_spectrum: 0.4044038
+name: Justin Baird
