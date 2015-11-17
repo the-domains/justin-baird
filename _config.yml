@@ -1,14 +1,26 @@
-layout_spectrum: 0.2196563
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 1
 color:
   saturation: 1
-  brandStrength: 1
+  brandStrength: 0.3968851
   lightness: 1
   brandColors:
-    - '#F0E1C7'
-    - '#0C0C0D'
-    - '#CE9166'
-    - '#6E6E5C'
-    - '#6F77E0'
-  rhythmicContrast: 0.2337912
-typography_spectrum: 0.4044038
+    - '#20201E'
+    - '#FAF9EA'
+    - '#A4775C'
+    - '#CEC6B4'
+    - '#FFF143'
+  rhythmicContrast: 0.4667025
+layout_spectrum: 0
 name: Justin Baird
