@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Justin Baird]]></title>
         <description><![CDATA[Justin Baird]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/justin-baird/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 11:22:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 Nov 2015 11:26:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/justin-baird/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/justin-baird/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">c5b53e3c-cefd-4aba-bb87-1f85aa3be0b9</guid>
             <pubDate>Fri, 20 Nov 2015 11:22:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About me]]></title>
+            <description><![CDATA[<article><h1>About me</h1><p>Justin Baird is the CTO and Head of APAC at 1-Page.com making the job market a better place. 1-Page helps enterprises around the world to drive innovation through next generation talent acquisition, as well as supporting the global workforce by providing the tools to pitch their unique value to companies beyond the resume. Justin is responsible for the research, development and implementation of 1-Page scientific and technological platforms, and the development of APAC markets.</p></article>]]></description>
+            <link>https://thegrid.ai/justin-baird/about-me/index.html</link>
+            <guid isPermaLink="false">730e2c10-a9e9-4524-834a-07e6af06d788</guid>
+            <pubDate>Fri, 20 Nov 2015 11:26:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
