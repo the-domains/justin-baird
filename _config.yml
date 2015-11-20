@@ -1,3 +1,7 @@
+name: Justin Baird
+favicon: null
+layout_spectrum: 0.5
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 1
+title: Justin Baird
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.3968851
-  lightness: 1
   brandColors:
     - '#20201E'
     - '#FAF9EA'
     - '#A4775C'
     - '#CEC6B4'
     - '#FFF143'
+  brandStrength: 0.3968851
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.4667025
-layout_spectrum: 0
-name: Justin Baird
+purpose: []
